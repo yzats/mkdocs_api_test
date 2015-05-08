@@ -1,5 +1,5 @@
-site_name: MkLorum
-pages:
-- [index.md, Home]
-- ['paths/system.md',   'Resources',    'System']
-- ['paths/users.md',    'Resources',    'Users']
+#site_name: MkLorum
+#pages:
+#- [index.md, Home]
+#- ['paths/system.md',   'Resources',    'System']
+#- ['paths/users.md',    'Resources',    'Users']
